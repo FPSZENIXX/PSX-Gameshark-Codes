@@ -1,0 +1,32 @@
+#Gameplay:Second Costume For All Characters
+3012312E 0001
+#Misc:Galaxa Minigame Perfect Score
+801C0924 0028
+#Gameplay:Infinite Round Time
+80125180 090E
+#Gameplay:P1 Infinite Health
+801232DE 0080
+#Gameplay:P2 Infinite Health
+80124312 0080
+#Gameplay:P1 Win Round
+80124312 0000
+#Gameplay:P2 Win Round
+801232DE 0000
+#Player:Replace Kazuya With Armour King
+300E5A4B 0009
+#Player:Replace Kazuya With Kunimitsu
+300E5A4B 0008
+#Player:Replace Kazuya With Heihachi
+300E5A4B 000C
+#Player:Replace Kazuya With P. Jack
+300E5A4B 000A
+#Player:Replace Kazuya With Ganryu
+300E5A4B 0010
+#Player:Replace Kazyua With Kuma
+300E5A4B 000B
+#Player:Replace Kazuya With Wang
+300E5A4B 000E
+#Player:Replace Kazuya With Anna
+300E5A4B 000F
+#Player:Replace Kazuya With Lee
+300E5A4B 000D
