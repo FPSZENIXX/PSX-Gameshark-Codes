@@ -4,6 +4,7 @@
 80097ADA 00FF
 #Gameplay:P1 Has RUMBLE (Press L1+R1)
 80095BE4 0030
+80095EB8 00B4
 #Gameplay:P1 Infinite Health & Stamina
 80095BD8 0064
 80095BDC 0064
